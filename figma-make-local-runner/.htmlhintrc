@@ -1,0 +1,16 @@
+{
+  "tagname-lowercase": true,
+  "attr-lowercase": true,
+  "attr-value-double-quotes": true,
+  "doctype-first": false,
+  "tag-pair": true,
+  "spec-char-escape": true,
+  "id-unique": true,
+  "src-not-empty": true,
+  "attr-unsafe-chars": true,
+  "aria-role": false,
+  "aria-proptypes": false,
+  "aria-requiredattr": false,
+  "head-script-disabled": true,
+  "img-alt-require": false
+}
